@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'AP Affiliate',
+    'name' => 'Laravel 7 && React 16',
 
     /*
     |--------------------------------------------------------------------------
